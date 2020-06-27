@@ -1,4 +1,4 @@
 My domain is pcftest.com and id_token : 
 27489a5c5a793f50e57a2f5fe6929e61
 
-Check My Other Form Of Hosting The Pages and Use above Token as 
+Check My Other Form Of Hosting The Pages and Use above Token as URI
