@@ -1,0 +1,2 @@
+# scoectf
+Path to Flag
